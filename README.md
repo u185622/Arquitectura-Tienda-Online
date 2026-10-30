@@ -42,3 +42,12 @@ ha bajado el stock al final.
 En `main` está la versión que funciona. Cada cosa nueva la hago en su propia rama
 (`feature/algo`, por ejemplo `feature/docker`) y cuando está terminada la junto con `main` mediante
 un Pull Request.
+
+## Docker
+
+También se puede ejecutar con Docker, sin tener Python instalado. Desde la carpeta del repositorio:
+
+```bash
+docker build -t tienda-online -f dockerfile .
+docker run --rm tienda-online
+```
