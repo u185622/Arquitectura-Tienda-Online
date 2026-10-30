@@ -4,9 +4,7 @@ Hecho por **Unai Lama Pérez** para la asignatura de Arquitectura del Software.
 
 ## ¿De qué va esto?
 
-Es una tienda online hecha en Python, sin interfaz gráfica, que funciona por consola. La hice en la
-Práctica 1 para practicar la programación orientada a objetos, y ahora la subo aquí para ir
-trabajando con Git y GitHub en las siguientes prácticas.
+Es una tienda online hecha en Python, sin interfaz gráfica, que funciona por consola.
 
 La idea es sencilla: en la tienda hay usuarios, productos y pedidos. Los usuarios pueden ser
 clientes o administradores, y solo los clientes pueden hacer pedidos. Cuando un cliente compra algo,
